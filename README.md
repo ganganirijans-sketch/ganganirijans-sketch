@@ -15,8 +15,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### 📊 Machine Learning & Data
-![NumPy](https://img.shields.io/badge/NumPy-Basics-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Basics-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Basics-style=for-the-badge&logo=pandas&logoColor=white)
 
 #### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-EE4C2C?style=for-the-badge&logo=git&logoColor=white)
